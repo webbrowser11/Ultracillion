@@ -7,3 +7,6 @@ This number is basically N = 2 to the power of K. K standing for a giant number.
 
 # Why?
 Because he wanted to create a number so weird and useless no one would think about it.
+
+# Copyright
+I DO NOT CARE PASTE THIS WHOLE THING INTO A WIKIPEDIA ARTICLE OR SMTH!
