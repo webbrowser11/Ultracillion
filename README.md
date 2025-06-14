@@ -13,3 +13,7 @@ I DO NOT CARE PASTE THIS WHOLE THING INTO A WIKIPEDIA ARTICLE OR SMTH!
 
 # VIEW
 View easily with the .exe filei uploaded today.
+
+Download:
+https://webbrowser11.github.io/Ultracillion/Ultracillion.exe
+https://webbrowser11.github.io/Ultracillion/Ultracillion.py
