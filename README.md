@@ -15,5 +15,5 @@ I DO NOT CARE PASTE THIS WHOLE THING INTO A WIKIPEDIA ARTICLE OR SMTH!
 View easily with the .exe filei uploaded today.
 
 Download:
-https://webbrowser11.github.io/Ultracillion/Ultracillion.exe
+https://www.dropbox.com/scl/fi/pp4yh0jjkv4aqs5w2pbzn/Ultracillion.exe?rlkey=rv52y1yeyeh1e0dadx9nzpfb0&st=pc54pu68&dl=1
 https://webbrowser11.github.io/Ultracillion/Ultracillion.py
