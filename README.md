@@ -10,3 +10,6 @@ Because he wanted to create a number so weird and useless no one would think abo
 
 # Copyright
 I DO NOT CARE PASTE THIS WHOLE THING INTO A WIKIPEDIA ARTICLE OR SMTH!
+
+# VIEW
+View easily with the .exe filei uploaded today.
